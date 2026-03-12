@@ -99,7 +99,7 @@ Los factores con mayor impacto en la cancelación de clientes son:
 ---
 
 ## 👤 Autor
-rluzav — Challenge Data Science, Alura LATAM
+Renzo Luza — Challenge Data Science, Alura LATAM
 
 
 
